@@ -1,0 +1,21 @@
+@import "fonts";
+
+
+@for $i from 1 through 2 {
+  h#{$i} {
+    font-family: 'Montserrat-Bold', sans-serif;
+  }
+}
+
+@for $i from 3 through 6 {
+  h#{$i} {
+    font-family: "Bebas Neue", sans-serif;
+
+  }
+}
+
+
+
+p,a{
+  font-family: 'Roboto', sans-serif;
+}

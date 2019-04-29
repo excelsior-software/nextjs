@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-sass": "^1.0.1",
     "autoprefixer": "^9.5.1",
@@ -21,11 +22,14 @@
     "node-sass": "^4.11.0",
     "postcss-css-variables": "^0.12.0",
     "postcss-loader": "^3.0.0",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.6",
     "react-dom": "^16.8.6",
+    "react-jss": "^8.6.1",
     "sass-loader": "^7.1.0",
-    "styled-components": "^4.2.0"
+    "styled-components": "^4.2.0",
+    "styled-jsx": "^3.2.1"
   },
   "devDependencies": {
     "@storybook/react": "^5.0.6"
